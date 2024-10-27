@@ -22,3 +22,7 @@ Attach all the evidence in the PR.
 ## Authors
 
 - [@psystingod](https://www.github.com/psystingod)
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
