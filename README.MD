@@ -18,3 +18,7 @@ Create a github action that triggers when a pull request is opened targeting the
 github action must print in the console two messages. One with an environment variable, and a second one with an environment secret.
 
 Attach all the evidence in the PR.
+
+## Authors
+
+- [@psystingod](https://www.github.com/psystingod)
