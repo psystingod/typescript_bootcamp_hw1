@@ -23,12 +23,12 @@ Attach all the evidence in the PR.
 
 - [@psystingod](https://www.github.com/psystingod)
 
-## Screenshots
-
+# Screenshots
+## SSH
 ![App Screenshot](https://github.com/psystingod/typescript_bootcamp_hw1/blob/main/hw-0.PNG)
-
+## Branches
 ![App Screenshot](https://github.com/psystingod/typescript_bootcamp_hw1/blob/main/hw-1.PNG)
-
+## Pull Requests
 ![App Screenshot](https://github.com/psystingod/typescript_bootcamp_hw1/blob/main/hw-2.PNG)
-
+## Actions
 ![App Screenshot](https://github.com/psystingod/typescript_bootcamp_hw1/blob/main/hw-3.PNG)
