@@ -10,7 +10,7 @@ jobs:
   print-messages:
     runs-on: ubuntu-latest
     env:
-      MY_ENV_VAR: "This is an environment variable message"
+        MY_ENV_VAR: "This is an environment variable message"
     steps:
       - name: Print Environment Variable
         run: echo "Environment Variable: $MY_ENV_VAR"
