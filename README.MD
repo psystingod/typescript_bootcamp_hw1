@@ -25,4 +25,10 @@ Attach all the evidence in the PR.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/11Es7GrCsS_vgJ7WL5QrPjO29wz6qK0n1/view?usp=sharing)
+
+![App Screenshot](https://drive.google.com/file/d/1i-QocZjqHnYgHFVQbhXt72AnhZrCxfcS/view?usp=sharing)
+
+![App Screenshot](https://drive.google.com/file/d/1gzy4Wxy0oIghP5Eb4TXUYxcqeMggjYNn/view?usp=sharing)
+
+![App Screenshot](https://drive.google.com/file/d/12IFFG_Y3dfF9c8rqutUcAD1zez_Xsgvr/view?usp=sharing)
