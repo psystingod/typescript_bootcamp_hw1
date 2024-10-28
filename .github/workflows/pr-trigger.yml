@@ -2,8 +2,7 @@ name: Print Environment Variables on Pull Request
 
 on:
   pull_request:
-    branches:
-      - main
+    branches: [ "main" ]
     types: [opened]
 
 jobs:
@@ -12,6 +11,7 @@ jobs:
     env:
         MY_ENV_VAR: "This is an environment variable message"
     steps:
+      - uses: actions/checkout@v4
       - name: Print Environment Variable
         run: echo "Environment Variable: $MY_ENV_VAR"
         
