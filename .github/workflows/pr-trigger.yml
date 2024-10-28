@@ -1,4 +1,3 @@
-# test comment.
 name: Print Environment Variables on Pull Request
 
 on:
@@ -18,5 +17,5 @@ jobs:
         
       - name: Print Secret
         env:
-          MY_SECRET: ${{ secrets.MY_SECRET }}
+          MY_SECRET: '${{ secrets.MY_SECRET }}'
         run: echo "Secret: $MY_SECRET"
