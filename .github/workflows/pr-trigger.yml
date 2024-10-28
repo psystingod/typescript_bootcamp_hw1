@@ -16,6 +16,4 @@ jobs:
         run: echo "Environment Variable: $MY_ENV_VAR"
         
       - name: Print Secret
-        env:
-          MY_SECRET: ${{ secrets.MY_SECRET }}
-        run: echo "Secret: $MY_SECRET"
+        run: echo "Secret: ${{ secrets.MY_SECRET }}"
